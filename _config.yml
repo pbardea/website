@@ -1,0 +1,41 @@
+# Site settings
+title: Paul Bardea
+email: paul@pbardea.com
+description: "A Software Engineering student at the University of Waterloo."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: BD0900
+  secondary: 016973
+  secondary-dark: 71B000
+  link: 016D9B
+  
+# Footer settings
+footer:
+  copyright: Paul Bardea
+  location: Toronto
+  social: Find me online
+  credits: Credits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/pbardea
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/pbardea
+  - title: github
+    url: http://github.com/pbardea
+  - title: linkedin
+    url: https://www.linkedin.com/in/pbardea
+
+# # Postal address (add as many lines as necessary)
+# address:
+#   - line:
+#   - line: Beverly Hills, CA
+  
+# Credits content
+credits: 'Theme: Freelance, by <a href="http://startbootstrap.com">Start Bootstrap</a>'
+
+# Build settings
+markdown: kramdown
+permalink: pretty

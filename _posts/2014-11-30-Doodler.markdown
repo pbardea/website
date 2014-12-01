@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 1
+date: 2014-11-30
+img: doodler.png
+alt: image-alt
+link: https://github.com/pbardea/doodler
+project-date: October 2014
+category: Web Development
+description: Doodler is a work in progress. It is a note-taking web app that allows users to easily take notes that integrate matricies and/or doodles. Resizable, movable, and drawable frames are added to the screen as needed to allow easy integration of doodles in your notes.
+
+---
