@@ -1,0 +1,41 @@
+_config.yml:email: paul@pbardea.com
+_config.yml:    url: http://twitter.com/pbardea
+_config.yml:    url: http://stackoverflow.com/questions/tagged/pbardea
+_config.yml:    url: http://github.com/pbardea
+_config.yml:    url: https://www.linkedin.com/in/pbardea
+_includes/about.html:                  <p>I have some experience with iOS development as well as web dev. You can also see other stuff I'm working on, over at my <a href="http://github.com/pbardea">Github</a> profile. </p>
+_posts/2014-11-30-Doodler.markdown:link: https://github.com/pbardea/doodler
+_posts/2014-11-30-Lockertopia.markdown:link: https://github.com/pbardea/lockertopia
+_posts/2014-11-30-Scribbler.markdown:link: https://github.com/pbardea/scribbler
+_site/index.html:                  <p>I have some experience with iOS development as well as web dev. You can also see other stuff I'm working on, over at my <a href="http://github.com/pbardea">Github</a> profile. </p>
+_site/index.html:                                <a href="http://twitter.com/pbardea" class="btn-social btn-outline"><i class="fa fa-fw fa-twitter"></i></a>
+_site/index.html:                                <a href="http://stackoverflow.com/questions/tagged/pbardea" class="btn-social btn-outline"><i class="fa fa-fw fa-stack-overflow"></i></a>
+_site/index.html:                                <a href="http://github.com/pbardea" class="btn-social btn-outline"><i class="fa fa-fw fa-github"></i></a>
+_site/index.html:                                <a href="https://www.linkedin.com/in/pbardea" class="btn-social btn-outline"><i class="fa fa-fw fa-linkedin"></i></a>
+_site/index.html:                                  <strong><a href="https://github.com/pbardea/scribbler">Github</a>
+_site/index.html:                                  <strong><a href="https://github.com/pbardea/lockertopia">Github</a>
+_site/index.html:                                  <strong><a href="https://github.com/pbardea/doodler">Github</a>
+_site/python development/2014/11/30/Scribbler/index.html:                  <p>I have some experience with iOS development as well as web dev. You can also see other stuff I'm working on, over at my <a href="http://github.com/pbardea">Github</a> profile. </p>
+_site/python development/2014/11/30/Scribbler/index.html:                                <a href="http://twitter.com/pbardea" class="btn-social btn-outline"><i class="fa fa-fw fa-twitter"></i></a>
+_site/python development/2014/11/30/Scribbler/index.html:                                <a href="http://stackoverflow.com/questions/tagged/pbardea" class="btn-social btn-outline"><i class="fa fa-fw fa-stack-overflow"></i></a>
+_site/python development/2014/11/30/Scribbler/index.html:                                <a href="http://github.com/pbardea" class="btn-social btn-outline"><i class="fa fa-fw fa-github"></i></a>
+_site/python development/2014/11/30/Scribbler/index.html:                                <a href="https://www.linkedin.com/in/pbardea" class="btn-social btn-outline"><i class="fa fa-fw fa-linkedin"></i></a>
+_site/python development/2014/11/30/Scribbler/index.html:                                  <strong><a href="https://github.com/pbardea/scribbler">Github</a>
+_site/python development/2014/11/30/Scribbler/index.html:                                  <strong><a href="https://github.com/pbardea/lockertopia">Github</a>
+_site/python development/2014/11/30/Scribbler/index.html:                                  <strong><a href="https://github.com/pbardea/doodler">Github</a>
+_site/web development/2014/11/30/Doodler/index.html:                  <p>I have some experience with iOS development as well as web dev. You can also see other stuff I'm working on, over at my <a href="http://github.com/pbardea">Github</a> profile. </p>
+_site/web development/2014/11/30/Doodler/index.html:                                <a href="http://twitter.com/pbardea" class="btn-social btn-outline"><i class="fa fa-fw fa-twitter"></i></a>
+_site/web development/2014/11/30/Doodler/index.html:                                <a href="http://stackoverflow.com/questions/tagged/pbardea" class="btn-social btn-outline"><i class="fa fa-fw fa-stack-overflow"></i></a>
+_site/web development/2014/11/30/Doodler/index.html:                                <a href="http://github.com/pbardea" class="btn-social btn-outline"><i class="fa fa-fw fa-github"></i></a>
+_site/web development/2014/11/30/Doodler/index.html:                                <a href="https://www.linkedin.com/in/pbardea" class="btn-social btn-outline"><i class="fa fa-fw fa-linkedin"></i></a>
+_site/web development/2014/11/30/Doodler/index.html:                                  <strong><a href="https://github.com/pbardea/scribbler">Github</a>
+_site/web development/2014/11/30/Doodler/index.html:                                  <strong><a href="https://github.com/pbardea/lockertopia">Github</a>
+_site/web development/2014/11/30/Doodler/index.html:                                  <strong><a href="https://github.com/pbardea/doodler">Github</a>
+_site/web development/2014/11/30/Lockertopia/index.html:                  <p>I have some experience with iOS development as well as web dev. You can also see other stuff I'm working on, over at my <a href="http://github.com/pbardea">Github</a> profile. </p>
+_site/web development/2014/11/30/Lockertopia/index.html:                                <a href="http://twitter.com/pbardea" class="btn-social btn-outline"><i class="fa fa-fw fa-twitter"></i></a>
+_site/web development/2014/11/30/Lockertopia/index.html:                                <a href="http://stackoverflow.com/questions/tagged/pbardea" class="btn-social btn-outline"><i class="fa fa-fw fa-stack-overflow"></i></a>
+_site/web development/2014/11/30/Lockertopia/index.html:                                <a href="http://github.com/pbardea" class="btn-social btn-outline"><i class="fa fa-fw fa-github"></i></a>
+_site/web development/2014/11/30/Lockertopia/index.html:                                <a href="https://www.linkedin.com/in/pbardea" class="btn-social btn-outline"><i class="fa fa-fw fa-linkedin"></i></a>
+_site/web development/2014/11/30/Lockertopia/index.html:                                  <strong><a href="https://github.com/pbardea/scribbler">Github</a>
+_site/web development/2014/11/30/Lockertopia/index.html:                                  <strong><a href="https://github.com/pbardea/lockertopia">Github</a>
+_site/web development/2014/11/30/Lockertopia/index.html:                                  <strong><a href="https://github.com/pbardea/doodler">Github</a>

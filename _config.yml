@@ -5,10 +5,10 @@ description: "A Software Engineering student at the University of Waterloo."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: BD0900
-  secondary: 016973
-  secondary-dark: 71B000
-  link: 016D9B
+  primary: B81D18
+  secondary: 303030
+  secondary-dark: 101010
+  link: F0F0F0
   
 # Footer settings
 footer:
